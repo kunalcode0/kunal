@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/kunal/static/css/main.fd0b817a.css",
+    "main.js": "/kunal/static/js/main.90ef5f1b.js",
+    "static/media/weather-app.png": "/kunal/static/media/weather-app.9e72fed5006d24d0268e.png",
+    "static/media/main-gif.gif": "/kunal/static/media/main-gif.9565a227b5879c275816.gif",
+    "static/media/coffee.png": "/kunal/static/media/coffee.bf3037a4bc2c176b6177.png",
+    "static/media/resturant-app.png": "/kunal/static/media/resturant-app.6c8dea2e891dd71a81b9.png",
+    "static/media/meta.png": "/kunal/static/media/meta.daa66169b2f953248d2a.png",
+    "static/media/google.png": "/kunal/static/media/google.a07a77c5aee368fb8131.png",
+    "static/media/toffeemoney.jpg": "/kunal/static/media/toffeemoney.3661b315982391497a33.jpg",
+    "static/media/lgm.png": "/kunal/static/media/lgm.a60fe99c57097d20d783.png",
+    "static/media/portfolio.png": "/kunal/static/media/portfolio.6fe6f32f4a170cd6a492.png",
+    "static/media/infosys.png": "/kunal/static/media/infosys.2e3034dd16bb64e10f9a.png",
+    "static/media/gym-app.png": "/kunal/static/media/gym-app.da61a9efadd9072fc5b5.png",
+    "static/media/learn tube 2.jpg": "/kunal/static/media/learn tube 2.4668ec84b03d874a91e6.jpg",
+    "static/media/learn tube 1.jpg": "/kunal/static/media/learn tube 1.d134c32d9c1eef4ec636.jpg",
+    "static/media/about.png": "/kunal/static/media/about.6e6f178f9bd3fd7d5b00.png",
+    "static/media/skills.png": "/kunal/static/media/skills.4b4a32d77e5725bd316c.png",
+    "static/media/experience.png": "/kunal/static/media/experience.2a4c67cc53ea000daeb3.png",
+    "static/media/contact.png": "/kunal/static/media/contact.ad5b4d70cf2de311a2ec.png",
+    "static/media/projects.png": "/kunal/static/media/projects.a741a67caf9aba5d245d.png",
+    "static/media/logo123.png": "/kunal/static/media/logo123.f7140cf826409d75834d.png",
+    "static/media/resume.pdf": "/kunal/static/media/resume.1ea8decce95983905752.pdf",
+    "static/media/certificate6.jpg": "/kunal/static/media/certificate6.26d01e7c0ba90a625eb3.jpg",
+    "static/media/certificate2.jpg": "/kunal/static/media/certificate2.26fffb5bfed1eac4b91e.jpg",
+    "static/media/certificate1.jpg": "/kunal/static/media/certificate1.02d370746160e1b57561.jpg",
+    "static/media/certificate7.jpg": "/kunal/static/media/certificate7.dcac0aa6256744c14ea4.jpg",
+    "static/media/certificate5.jpg": "/kunal/static/media/certificate5.fe2359672d2e5ed3f8d1.jpg",
+    "static/media/certificate4.jpg": "/kunal/static/media/certificate4.fcbf1df0d0919f867512.jpg",
+    "static/media/certificate3.jpg": "/kunal/static/media/certificate3.957cec1e8dbdbf0d87e6.jpg",
+    "static/media/note-maker.png": "/kunal/static/media/note-maker.8c5730a79dfc3a7b7fe0.png",
+    "static/media/react.png": "/kunal/static/media/react.7f810bcc50eb5be9eda3.png",
+    "index.html": "/kunal/index.html",
+    "main.fd0b817a.css.map": "/kunal/static/css/main.fd0b817a.css.map",
+    "main.90ef5f1b.js.map": "/kunal/static/js/main.90ef5f1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd0b817a.css",
+    "static/js/main.90ef5f1b.js"
+  ]
+}
