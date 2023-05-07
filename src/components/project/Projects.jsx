@@ -47,7 +47,7 @@ function Portfolio() {
             </div>
             <h3>Responsive Resturant Website</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/kunalcode0/resturant-website" className="btn"  target="_blank"   rel="noreferrer"  className="github-btn">Github</a>
+            <a href="https://github.com/kunalcode0/resturant-website"  target="_blank"   rel="noreferrer"  className="github-btn">Github</a>
             <a href="https://kunalcode0.github.io/resturant-website/" className="livedemo-btn"  target="_blank"   rel="noreferrer">Live Demo</a>
             </div>
         </article>

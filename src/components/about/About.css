@@ -44,17 +44,27 @@
     word-wrap: break-word;
 }
 
-
+@media screen and (max-width:850px) {
+   
+    .about-p3{
+        margin-left: 1rem;
+    }
+}
 
 @media screen and (max-width:450px) {
     .about-img img{
         height: 10rem;
     }
 
+    .about-p3{
+        margin-left: .8rem;
+    }
 }
 @media screen and (max-width:300px) {
     .about-img img{
         height: 7rem;
     }
+
+   
 
 }
