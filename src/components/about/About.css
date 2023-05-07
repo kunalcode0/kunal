@@ -61,7 +61,7 @@
     }
 }
 @media screen and (max-width:300px) {
-    .about-img img{
+.about-img img{
         height: 7rem;
     }
 
